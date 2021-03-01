@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1613782805 source:c:\users\mauro\documents\programacion 2 mauro\listas dobles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
